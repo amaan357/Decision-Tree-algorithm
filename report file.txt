@@ -1,0 +1,126 @@
+OUTPUTS FOR DATA SET 1
+for l=3, k=4
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 74.95%
+accuracy of test dataset after pruning VImp = 68.85%
+
+for l=3, k=5
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 74.15%
+accuracy of test dataset after pruning VImp = 69.0%
+
+for l=3, k=6
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 74.15%
+accuracy of test dataset after pruning VImp = 69.2%
+
+for l=3, k=7
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 74.15%
+accuracy of test dataset after pruning VImp = 69.15%
+
+for l=3, k=8
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 75.45%
+accuracy of test dataset after pruning VImp = 69.15%
+
+for l=2, k=9
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 75.0%
+accuracy of test dataset after pruning VImp = 69.15%
+
+for l=4, k=3
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 74.2%
+accuracy of test dataset after pruning VImp = 69.15%
+
+for l=5, k=5
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 74.15%
+accuracy of test dataset after pruning VImp = 69.95%
+
+for l=2, k=10
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 74.15%
+accuracy of test dataset after pruning VImp = 69.15%
+
+for l=10, k=2
+accuracy of test dataset ID3 = 74.15%
+accuracy of test dataset VImp = 69.15%
+accuracy of test dataset after pruning ID3 = 74.9%
+accuracy of test dataset after pruning VImp = 69.15%
+
+
+
+
+
+
+OUTPUTS FOR DATA SET 2
+for l=3, k=4
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 73.33%
+accuracy of test dataset after pruning VImp = 74.67%
+
+for l=3, k=5
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 73.33%
+accuracy of test dataset after pruning VImp = 75.17%
+
+for l=3, k=6
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 72.33%
+accuracy of test dataset after pruning VImp = 74.67%
+
+for l=3, k=7
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 73.67%
+accuracy of test dataset after pruning VImp = 76.50%
+
+for l=3, k=8
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 72.33%
+accuracy of test dataset after pruning VImp = 74.67%
+
+for l=2, k=9
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 72.33%
+accuracy of test dataset after pruning VImp = 74.67%
+
+for l=4, k=3
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 72.33%
+accuracy of test dataset after pruning VImp = 75.33%
+
+for l=5, k=5
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 72.33%
+accuracy of test dataset after pruning VImp = 75.83%
+
+for l=2, k=10
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 71.83%
+accuracy of test dataset after pruning VImp = 74.67%
+
+for l=10, k=2
+accuracy of test dataset ID3 = 72.33%
+accuracy of test dataset VImp = 74.67%
+accuracy of test dataset after pruning ID3 = 73.50%
+accuracy of test dataset after pruning VImp = 74.67%
